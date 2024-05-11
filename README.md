@@ -42,7 +42,7 @@ Where to find me :
 - [Frameworks & Libraries] -Laravel,Bootstrap,Tailwindcss,jquery,nodejs 
 - [Packet manager] - pip,npm,composer
 - Git,github,vite
-- [Multitasking] - awesome web-based text editor
+
 
 ## Projects
 | Name | liveLink or Repo|

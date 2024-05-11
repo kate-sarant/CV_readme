@@ -38,7 +38,6 @@ Where to find me :
 - [Frameworks & Libraries] -Laravel,Bootstrap,Tailwindcss,jquery,nodejs 
 - [Packet manager] - pip,npm,composer
 - Git,github,vite
-- [Problem-solving abilities] - fast node.js network app framework [@tjholowaychuk]
 - [Multitasking] - awesome web-based text editor
 
 ## Projects

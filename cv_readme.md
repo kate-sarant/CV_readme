@@ -42,11 +42,11 @@ Where to find me :
 - [Multitasking] - awesome web-based text editor
 
 ## Projects
-
+| ------ | ------ |
 **Appointy** - Booking system with Laravel, Laravel 9 | tailwind's [click here](https://github.com/kate-sarant/Appointy  ).
-| ------ | ------ |
+
 **MultiTheme calculator** - Javascript | CSS custom properties| Sematic Html  [click here](https://peppy-dusk-f6ee5f.netlify.app ).
-| ------ | ------ |
+
 **Component-solution** - Semantic HTML5 markup | CSS custom properties | Vanilla JavaScript [click here](https://astonishing-belekoy-ffe2fa.netlify.app )<br/>
 
 
@@ -56,7 +56,7 @@ Certifications obtained from online tutorials during my learning journey.
 
 | Certifications | README |
 | ------ | ------ |
-| WordPress Essential Training | [LinkedIn Learning Certificate of Completion] |
+| WordPress Essential Training | [https://www.linkedin.com/learning/certificates/15f58e832d8999c0f100bc687a48d73f0257d860f9a9eed81ce27e60798fdbf4] |
 | JavaScript (Intermediate) Certificate | [https://www.hackerrank.com/certificates/ad2441a295dc] |
 | Problem Solving (Basic) Certificate | [https://www.hackerrank.com/certificates/26043f4c84f4] |
 | SQL (Basic) Certificate | [https://www.hackerrank.com/certificates/c2a758281fc4] |

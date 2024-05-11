@@ -42,19 +42,21 @@ Where to find me :
 - [Multitasking] - awesome web-based text editor
 
 ## Projects
+| Name | liveLink or Repo|
 | ------ | ------ |
-**Appointy** - Booking system with Laravel, Laravel 9 | tailwind's [click here](https://github.com/kate-sarant/Appointy  ).
 
-**MultiTheme calculator** - Javascript | CSS custom properties| Sematic Html  [click here](https://peppy-dusk-f6ee5f.netlify.app ).
+**Appointy** - Booking system with Laravel, Laravel 9 , tailwind's | [click here](https://github.com/kate-sarant/Appointy  ).
 
-**Component-solution** - Semantic HTML5 markup | CSS custom properties | Vanilla JavaScript [click here](https://astonishing-belekoy-ffe2fa.netlify.app )<br/>
+**MultiTheme calculator** - Javascript , CSS custom properties, Sematic Html  | [click here](https://peppy-dusk-f6ee5f.netlify.app ).
+
+**Component-solution** - Semantic HTML5 markup , CSS custom properties , Vanilla JavaScript | [click here](https://astonishing-belekoy-ffe2fa.netlify.app )<br/>
 
 
 ## Certifications
 
 Certifications obtained from online tutorials during my learning journey.
 
-| Certifications | README |
+| Certifications | Link |
 | ------ | ------ |
 | WordPress Essential Training | [https://www.linkedin.com/learning/certificates/15f58e832d8999c0f100bc687a48d73f0257d860f9a9eed81ce27e60798fdbf4] |
 | JavaScript (Intermediate) Certificate | [https://www.hackerrank.com/certificates/ad2441a295dc] |

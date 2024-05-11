@@ -6,7 +6,11 @@
 
 ## Summary
 ```
-Hello,I am a career changer with a deep thirst for knowledge that drives my success and personal growth.I have dived into both front and back-end development,mastering the fundamentals and basics of Linux.Currently,I am enrolled in a 3-month bootcamp with AWS to obtain a Cloud Practitioner certification. My ultimate goal is to embark on a new journey in the tech industry,pursuing a childhood passion and finding fulfillment in a career I love.My dedication to learning and adapting to new technologies sets the foundation for my future endeavors and aspirations in the ever-evolving field of technology.  
+Hello,I am a career changer with a deep thirst for knowledge that drives my success and personal growth.I have dived into both
+front and back-end development,mastering the fundamentals and basics of Linux.Currently,I am enrolled in a 3-month bootcamp with AWS
+to obtain a Cloud Practitioner certification. My ultimate goal is to embark on a new journey in the tech industry,pursuing a childhood
+passion and finding fulfillment in a career I love.My dedication to learning and adapting to new technologies sets the foundation for my
+future endeavors and aspirations in the ever-evolving field of technology.  
 ```
 ## Contact Information
 

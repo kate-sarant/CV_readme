@@ -80,9 +80,11 @@ Certifications obtained from online tutorials during my learning journey.
     There, I contributed to the development and maintenance of several Wordpress websites, using custom themes and plugins, and ensuring their functionality and performance
 
 
-## License
 
-MIT
+## Usage Rights
+
+This CV is provided for informational purposes only and is not intended for modification or distribution without express permission. All rights reserved.
+
 
 
 

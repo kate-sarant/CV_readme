@@ -26,25 +26,28 @@ Where to find me :
 
 ## Skills
 
-- [AWS] - Cloud web services
-- [Multitasking] - awesome web-based text editor
-- [Front-End Development] -Ajax
-- [Debugging and testing] - Code debugging
-- [CSS proficiency] - Responsive Design ,Flexbox ,varibales
-- [Problem-solving abilities] - fast node.js network app framework [@tjholowaychuk]
+
+- [Front-End Development] -HTML,CSS,JS,Ajax
 - [Back-End and Database Skills] - the streaming build system
 - [Scripting Languages | OOP programming] - PHP, Python, Javascript
+- [Debugging and testing] - Code debugging
+- [CSS proficiency] - Responsive Design ,Flexbox ,varibales
+- [AWS] - Cloud web services
 - [IT fundamentals] - Networking basics,servers,Linux basics and Bash
 - [Databases system] -SQL ,NoSql
-- [Frameworks] -Laravel,Bootstrap,Tailwindcss,jquery 
+- [Frameworks & Libraries] -Laravel,Bootstrap,Tailwindcss,jquery,nodejs 
 - [Packet manager] - pip,npm,composer
-- Git github,vite
+- Git,github,vite
+- [Problem-solving abilities] - fast node.js network app framework [@tjholowaychuk]
+- [Multitasking] - awesome web-based text editor
 
 ## Projects
 
 **Appointy** - Booking system with Laravel, Laravel 9 | tailwind's [click here](https://github.com/kate-sarant/Appointy  ).
+| ------ | ------ |
 **MultiTheme calculator** - Javascript | CSS custom properties| Sematic Html  [click here](https://peppy-dusk-f6ee5f.netlify.app ).
-**Component-solution** - Semantic HTML5 markup | CSS custom properties | Vanilla JavaScript [click here](https://astonishing-belekoy-ffe2fa.netlify.app )
+| ------ | ------ |
+**Component-solution** - Semantic HTML5 markup | CSS custom properties | Vanilla JavaScript [click here](https://astonishing-belekoy-ffe2fa.netlify.app )<br/>
 
 
 ## Certifications

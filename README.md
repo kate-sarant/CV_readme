@@ -57,6 +57,7 @@ Athens,Greece | Expected in June 2024
 **MultiTheme calculator** - Javascript , CSS custom properties, Sematic Html  | [click here](https://peppy-dusk-f6ee5f.netlify.app ).
 
 **Component-solution** - Semantic HTML5 markup , CSS custom properties , Vanilla JavaScript | [click here](https://astonishing-belekoy-ffe2fa.netlify.app )
+
 **Portofolio** - HTML5 , Tailwindcss, Vanilla JavaScript | [click here](https://myportfolio-katesarant.netlify.app/)
 
 ## Certifications

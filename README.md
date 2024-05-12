@@ -68,7 +68,7 @@ Certifications obtained from online tutorials during my learning journey.
 | [**Problem Solving (Basic) Certificate**]([https://www.hackerrank.com/certificates/26043f4c84f4) |
 | [**SQL (Basic) Certificate**](https://www.hackerrank.com/certificates/c2a758281fc4) |
 | [**Responsive Web Design**](https://www.freecodecamp.org/certification/fccfeb571c956c34215-b1a6f4c0b2e738a1/responsive-web-design) |
-| [**Javascript Algorithms and DataStructures**](https://www.freecodecamp.org/certification/fccfeb571c956c34215-b1a6f4c0b2e738a1/javascript-algorithms-anddata-structures) |
+| [**Javascript Algorithms and Data Structures**](https://www.freecodecamp.org/certification/fccfeb571c9-56c3-4215-b1a6-f4c0b2e738a1/javascript-algorithms-and-data-structures) |
 | [**Python (Basic) Certification**](https://www.hackerrank.com/certificates/bf83c5c2acfa) |
 
 ## Languages

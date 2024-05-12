@@ -65,9 +65,9 @@ Certifications obtained from online tutorials during my learning journey.
 | ------ | 
 | [**WordPress Essential Training**](https://www.linkedin.com/learning/certificates/15f58e832d8999c0f100bc687a48d73f0257d860f9a9eed81ce27e60798fdbf4) |
 | [**JavaScript (Intermediate) Certificate**](https://www.hackerrank.com/certificates/ad2441a295dc) |
-| [**Problem Solving (Basic) Certificate**]([https://www.hackerrank.com/certificates/26043f4c84f4) |
+| [**Problem Solving (Basic) Certificate**](https://www.hackerrank.com/certificates/26043f4c84f4) |
 | [**SQL (Basic) Certificate**](https://www.hackerrank.com/certificates/c2a758281fc4) |
-| [**Responsive Web Design**](https://www.freecodecamp.org/certification/fccfeb571c956c34215-b1a6f4c0b2e738a1/responsive-web-design) |
+| [**Responsive Web Design**](https://www.freecodecamp.org/certification/fccfeb571c9-56c3-4215-b1a6-f4c0b2e738a1/responsive-web-design) |
 | [**Javascript Algorithms and Data Structures**](https://www.freecodecamp.org/certification/fccfeb571c9-56c3-4215-b1a6-f4c0b2e738a1/javascript-algorithms-and-data-structures) |
 | [**Python (Basic) Certification**](https://www.hackerrank.com/certificates/bf83c5c2acfa) |
 

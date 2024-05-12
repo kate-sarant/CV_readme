@@ -25,7 +25,7 @@ Where to find me :
 | ------ |
 
 ## Skills
-| Name |  |
+| Technical Skills |  |
 | ------ | ------ |
  **Front-End Development**  | HTML,CSS,JS,Ajax|
  **Back-End and Database Skills**  | the streaming build system|

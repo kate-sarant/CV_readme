@@ -38,7 +38,7 @@ Where to find me :
   **Debugging and testing**  | Code debugging | 
   **CSS proficiency**  | Responsive Design ,Flexbox ,varibales |
   **AWS**  | Cloud web services |  
-  **IT fundamentals**  | Networking & servers basics,Linux basics,Bash scriptin ,Git,github | 
+  **IT fundamentals**  | Networking & servers basics,Linux basics,Bash scripting ,Git,github | 
   **Databases system**  | SQL ,NoSql |
   **Frameworks & Libraries**  |Laravel,Bootstrap,Tailwindcss,jquery,nodejs |
 

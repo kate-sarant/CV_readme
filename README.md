@@ -29,18 +29,18 @@ Where to find me :
 |[**`Portofolio`**](https://myportfolio-katesarant.netlify.app/)|
 | ------ |
 
+
 ## Skills
 | Technical Skills |  |
 | ------ | ------ |
- **Front-End Development**  | HTML,CSS,JS,Ajax|
- **Back-End and Database Skills**  | the streaming build system|
-  **Scripting Languages & OOP programming**  | PHP, Python, Javascript |
-  **Debugging and testing**  | Code debugging | 
-  **CSS proficiency**  | Responsive Design ,Flexbox ,varibales |
-  **AWS**  | Cloud web services |  
-  **IT fundamentals**  | Networking & servers basics,Linux basics,Bash scripting ,Git,github | 
-  **Databases system**  | SQL ,NoSql |
-  **Frameworks & Libraries**  |Laravel,Bootstrap,Tailwindcss,jquery,nodejs |
+**Front-End Development**  | HTML,CSS,JS,Ajax|
+**Back-End and Scripting Skills**   PHP, Python, Javascript,Bash(Basic use) |
+**Debugging and testing**  | Code debugging | 
+**CSS proficiency**  | Responsive Design ,Flexbox ,varibales |
+**AWS**  | Cloud web services | 
+**IT fundamentals**  | Networking & servers basics,Linux basics, Git,github | 
+**Databases system**  | SQL ,NoSql |
+**Frameworks & Libraries**  |Laravel,Bootstrap,Tailwindcss,jquery,nodejs |
 
 
 ## Education

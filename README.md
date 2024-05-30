@@ -34,7 +34,7 @@ Where to find me :
 | Technical Skills |  |
 | ------ | ------ |
 **Front-End Development**  | HTML,CSS,JS,Ajax|
-**Back-End and Scripting Skills**   PHP, Python, Javascript,Bash(Basic use) |
+**Back-End and Scripting Skills**  | PHP, Python, Javascript,Bash |
 **Debugging and testing**  | Code debugging | 
 **CSS proficiency**  | Responsive Design ,Flexbox ,varibales |
 **AWS**  | Cloud web services | 

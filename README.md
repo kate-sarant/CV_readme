@@ -22,7 +22,7 @@ Where to find me :
 🌍 **Location:** Athens, Greece  
 📞 **Phone:** +30 6946193786  
 📧 **Email:** kate_sarant@yahoo.gr  
-✨ **Magic:** House Stark 
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katesarant)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kate-sarant )

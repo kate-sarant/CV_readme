@@ -1,4 +1,4 @@
-# KATERINA SARANTOPOULOU  
+# KATERINA SARANTOPOULOU  (She/Her)
 ## Web Developer | 💻 Python | ☁️ AWS Certified | 🐳 Docker & DevOps  
 
 ## Contact Information 📞  

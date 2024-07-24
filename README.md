@@ -2,11 +2,10 @@
 ## Web Developer | 💻 Python | ☁️ AWS Certified | 🐳 Docker & DevOps  
 
 ## Contact Information 📞  
-- Phone: 6946193786  
+- Email: [mailto:kate_sarant@yahoo.gr](mailto:kate_sarant@yahoo.gr)  
 - Location: Athens, Greece  
 
 ## Find Me Online 🌐  
-- Email: [mailto:kate_sarant@yahoo.gr](mailto:kate_sarant@yahoo.gr)  
 - LinkedIn: [kate-sarant](https://www.linkedin.com/in/kate-sarant)  
 - GitHub: [kate-sarant](https://github.com/kate-sarant)  
 

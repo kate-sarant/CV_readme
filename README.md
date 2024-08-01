@@ -1,5 +1,5 @@
 # KATERINA SARANTOPOULOU  (She/Her)
-## Web Developer 🔹️ 💻 JS 🔹️Python🔹️ PHP| ☁️ AWS Certified | 🐳 Docker & DevOps  
+## 💻Web Developer 🔹️JS🔹️Python🔹️PHP| ☁️ AWS Certified | 🐳 Docker & DevOps  
 
 ## Contact Information 📞  
 - Email: [mailto:kate_sarant@yahoo.gr](mailto:kate_sarant@yahoo.gr)  

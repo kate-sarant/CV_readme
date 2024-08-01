@@ -1,5 +1,5 @@
 # KATERINA SARANTOPOULOU  (She/Her)
-## Web Developer | 💻 Python | ☁️ AWS Certified | 🐳 Docker & DevOps  
+## Web Developer 🔹️ 💻 JS 🔹️Python🔹️ PHP| ☁️ AWS Certified | 🐳 Docker & DevOps  
 
 ## Contact Information 📞  
 - Email: [mailto:kate_sarant@yahoo.gr](mailto:kate_sarant@yahoo.gr)  
@@ -40,7 +40,7 @@ Career changer with strong front and back-end development skills, Linux knowledg
 
 ## Skills 💻  
 ### Hard Skills:  
-HTML5, CSS, Frontend and Back Libraries, NodeJs, PHP, OOP, Git, Database Administration, Linux CLI Commands, MariaDB, XAMPP/Apache, Visual Code, API, Bash  
+AWS Cloud services & Administration,Docker,Git,Database Administration,Linux,Bash,MariaDB,XAMPP/Apache,Visual Code,HTML5,CSS,Frontend and Back Libraries,NodeJs,PHP, OOP,API, 
 
 ### Soft Skills:  
 Dedication, Work ethic, Problem-solving, Creativity, EQ, Self-awareness, Analytical thinking, Customer service  

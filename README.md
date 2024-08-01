@@ -40,7 +40,7 @@ Career changer with strong front and back-end development skills, Linux knowledg
 
 ## Skills 💻  
 ### Hard Skills:  
-AWS Cloud services & Administration,Docker,Git,Database Administration,Linux,Bash,MariaDB,XAMPP/Apache,Visual Code,HTML5,CSS,Frontend and Back Libraries,NodeJs,PHP, OOP,API, 
+AWS Cloud services & Administration,Docker,Git,Database Administration,Linux,Bash,MariaDB,XAMPP/Apache,Visual Code,HTML5,CSS,Frontend and Back Libraries,NodeJs,PHP, OOP,API
 
 ### Soft Skills:  
 Dedication, Work ethic, Problem-solving, Creativity, EQ, Self-awareness, Analytical thinking, Customer service  

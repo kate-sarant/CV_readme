@@ -30,7 +30,8 @@ Career changer with strong front and back-end development skills, Linux knowledg
 
 ## Certifications 🏅  
 - Certified Cloud Practitioner, Amazon AWS  
-- Amazon Restart Program Certification  
+- Amazon Restart Program Certification
+- Docker Foundations Professional Certificate ,Docker Inc
 - Python, Simplilearn  
 - JavaScript (Intermediate) Certificate - HackerRank  
 - Problem Solving (Basic) Certificate - HackerRank  

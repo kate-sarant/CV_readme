@@ -2,7 +2,7 @@
 ## 💻Web Developer 🔹️JS🔹️Python🔹️PHP| ☁️ AWS Certified | 🐳 Docker & DevOps  
 
 ## Contact Information 📞  
-- Email: [mailto:kate_sarant@yahoo.gr](mailto:kate_sarant@yahoo.gr)  
+- Email: [kate_sarant@yahoo.gr](mailto:kate_sarant@yahoo.gr)  
 - Location: Athens, Greece  
 
 ## Find Me Online 🌐  
